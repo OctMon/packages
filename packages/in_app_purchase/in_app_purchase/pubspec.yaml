@@ -11,8 +11,8 @@ environment:
 flutter:
   plugin:
     platforms:
-      android:
-        default_package: in_app_purchase_android
+      # android:
+      #   default_package: in_app_purchase_android
       ios:
         default_package: in_app_purchase_storekit
       macos:
